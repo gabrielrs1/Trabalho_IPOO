@@ -4,7 +4,7 @@ class Loja:
     def __iniciarLoja__(self):
         while True:
             print("\n==================================================\n")
-            print("---- A LOJA MAIS VIRTUAL QUE VOCÊ JÁ VIU!!!---- ")
+            print("---- ESTOQUE MAIS VIRTUAL QUE VOCÊ JÁ VIU!!!---- ")
             print("\n==================================================")
             print("1 - Cadastrar produtos no Estoque.")
             print("2 - Listar todos os produtos cadastrados")
